@@ -1,1 +1,1 @@
-# MIU-CSE-Class-Note
+# MIU CSE Class Note
