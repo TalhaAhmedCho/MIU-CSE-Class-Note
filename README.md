@@ -7,13 +7,12 @@ Below is a detailed index of **which file covers which problem/topic**.
 
 ## Root (Top Level)
 
-- `b67.txt` — Output/text written during File I/O practice (name/roll/department, etc.).
 - `note.excalidraw` — Diagram/notes (not code).
 - `README.md` — This index file.
 
 ---
 
-## 20-July-2025 (Python — List/Input/Sort/Max)
+## 20-Jul-2025 (Python — List/Input/Sort/Max)
 
 - `first.py` — Takes 10 numbers as input, stores them in a list, and prints the list.
 - `second.py` — Takes 10 numbers as input, sorts the list in ascending order, and prints it.
@@ -26,7 +25,7 @@ Below is a detailed index of **which file covers which problem/topic**.
 
 ---
 
-## 27-July-2025 (Python — Tkinter Basics + Loop/Break)
+## 27-Jun-2025 (Python — Tkinter Basics + Loop/Break)
 
 - `sir1.py` — Tkinter minimal window (`Tk()` + `mainloop()`).
 - `sir2.py` — Sets Tkinter window title and geometry.
@@ -39,7 +38,7 @@ Below is a detailed index of **which file covers which problem/topic**.
 
 ---
 
-## 03-August-2025 (Python — Summation + Tkinter Label)
+## 03-Aug-2025 (Python — Summation + Tkinter Label)
 
 - `cw1.py` — Computes the sum of 1..10 using a `for` loop.
 - `sir1.py` — Computes the sum of 1..10 using a direct expression.
@@ -49,7 +48,7 @@ Below is a detailed index of **which file covers which problem/topic**.
 
 ---
 
-## 17-August-2025 (Python — File I/O + Simple Tkinter Calculator)
+## 17-Aug-2025 (Python — File I/O + Simple Tkinter Calculator)
 
 - `calc1.py` — Tkinter: two input fields; performs **addition** and shows the result in a label.
 - `sir1.py` — Writes to `b67.txt` (write mode) — “Assalamu alaikum” sample.
@@ -57,6 +56,15 @@ Below is a detailed index of **which file covers which problem/topic**.
 - `sir2.py` — Reads `b67.txt` and prints the content.
 - `sir3.py` — Opens `bigger.txt` in write mode and attempts to iterate lines (won’t read in this mode; class demo/unfinished).
 - `tempCodeRunnerFile.py` — VS Code temporary snippet (placeholder).
+
+---
+
+## 24-Aug-2025 (Python — Tkinter Calculator Variations)
+
+- `cw1.py` — Tkinter: 4 separate rows for add/subtract/multiply/divide — each row has its own input pair + result label.
+- `cw2.py` — Tkinter: 2 input fields; button-based calculator for add/subtract/multiply/divide.
+- `sir1.py` — Tkinter: text field-based calculator; builds expression from button clicks and uses `eval()` for calculate/clear. (The `*` operator button text/command is empty here—may be unfinished/typo.)
+- `hw1.py` — Tkinter: full button calculator (0-9, +, -, *, /, =, C) — expression string + `eval()`.
 
 ---
 
@@ -90,21 +98,6 @@ Below is a detailed index of **which file covers which problem/topic**.
 - `cw2.java` — `for` loop + `continue`: skips 3.
 - `cw3.java` — `for` loop + `continue`: skips 3 and 4.
 - `cw4.java` — Prints a `*` triangle pattern using nested loops.
-
----
-
-## 24-August-2024
-
-- `sir1.py` — Empty file (placeholder).
-
----
-
-## 24-August-2025 (Python — Tkinter Calculator Variations)
-
-- `cw1.py` — Tkinter: 4 separate rows for add/subtract/multiply/divide — each row has its own input pair + result label.
-- `cw2.py` — Tkinter: 2 input fields; button-based calculator for add/subtract/multiply/divide.
-- `sir1.py` — Tkinter: text field-based calculator; builds expression from button clicks and uses `eval()` for calculate/clear. (The `*` operator button text/command is empty here—may be unfinished/typo.)
-- `hw1.py` — Tkinter: full button calculator (0-9, +, -, *, /, =, C) — expression string + `eval()`.
 
 ---
 
