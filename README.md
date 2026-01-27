@@ -55,7 +55,6 @@ Below is a detailed index of **which file covers which problem/topic**.
 - `hw1.py` — Writes personal info to `b67.txt` (Name/Roll/Dept).
 - `sir2.py` — Reads `b67.txt` and prints the content.
 - `sir3.py` — Opens `bigger.txt` in write mode and attempts to iterate lines (won’t read in this mode; class demo/unfinished).
-- `tempCodeRunnerFile.py` — VS Code temporary snippet (placeholder).
 
 ---
 
